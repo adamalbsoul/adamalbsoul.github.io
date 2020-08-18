@@ -22,6 +22,10 @@ github_username: oreoadidas
 minimal_mistakes_skin: dark
 search: false
 archive_subtitle: false
+layout: collection
+permalink: /portfolio/
+collection: portfolio
+entries_layout: grid
 
 # Build settings
 markdown: kramdown
