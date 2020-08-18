@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Adam Al-Bsoul
-email:
+email: albsouladam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! Adam is a Glasgow - based designer at the intersection of design and development currently in his final year of Computer Games Design BSc at Glasgow Caledonian University.
 twitter_username:
 github_username: oreoadidas
-minimal_mistakes_skin: default
-search: true
+minimal_mistakes_skin: dark
+search: false
 
 # Build settings
 markdown: kramdown
