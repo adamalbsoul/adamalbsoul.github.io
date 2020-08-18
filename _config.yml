@@ -59,6 +59,7 @@ author:
   name   : "Adam Al-Bsoul"
   avatar : "https://media-exp1.licdn.com/dms/image/C4D03AQHvCRLjEEp7cQ/profile-displayphoto-shrink_400_400/0?e=1603324800&v=beta&t=bueee9htR5l-x7gT6Xn-TAYaLeIyGnwVnyVyGGEKljs"
   bio    : "Hi! Adam is a Glasgow - based designer at the intersection of design and development currently in his final year of Computer Games Design BSc at Glasgow Caledonian University."
+  location : "Glasgow, Scotland, UK"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
