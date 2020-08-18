@@ -21,6 +21,7 @@ twitter_username:
 github_username: oreoadidas
 minimal_mistakes_skin: dark
 search: false
+archive_subtitle: false
 
 # Build settings
 markdown: kramdown
