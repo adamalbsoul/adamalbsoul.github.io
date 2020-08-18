@@ -62,31 +62,31 @@ author:
   location : "Glasgow, Scotland, UK"
   links:
     - label: "Behance"
-      icon: "fab fa-behance"
+      icon: "fab fa-fw fa-behance"
       url: "https://www.behance.net/adamalbsoul"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/oreoadidas"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/adam-al-bsoul-a85ba6174/"
     - label: "Email"
-      icon: "far fa-envelope"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:albsouladam@gmail.com"
 
 footer:
   links:
     - label: "Behance"
-      icon: "fab fa-behance"
+      icon: "fab fa-fw fa-behance"
       url: "https://www.behance.net/adamalbsoul"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/oreoadidas"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/adam-al-bsoul-a85ba6174/"
     - label: "Email"
-      icon: "far fa-envelope"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:albsouladam@gmail.com"
       
 social:
