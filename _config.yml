@@ -16,7 +16,7 @@
 title: Adam Al-Bsoul
 email: albsouladam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! Adam is a Glasgow - based designer at the intersection of design and development currently in his final year of Computer Games Design BSc at Glasgow Caledonian University.
+  Adam is a Glasgow - based designer at the intersection of design and development currently in his final year of Computer Games Design BSc at Glasgow Caledonian University.
 twitter_username:
 github_username: oreoadidas
 minimal_mistakes_skin: dark
@@ -57,8 +57,8 @@ plugins:
 
 author:
   name   : "Adam Al-Bsoul"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "https://media-exp1.licdn.com/dms/image/C4D03AQHvCRLjEEp7cQ/profile-displayphoto-shrink_400_400/0?e=1603324800&v=beta&t=bueee9htR5l-x7gT6Xn-TAYaLeIyGnwVnyVyGGEKljs"
+  bio    : "Hi! Adam is a Glasgow - based designer at the intersection of design and development currently in his final year of Computer Games Design BSc at Glasgow Caledonian University."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
