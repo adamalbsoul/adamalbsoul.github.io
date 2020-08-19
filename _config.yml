@@ -69,7 +69,6 @@ plugins:
 author:
   name   : "Adam Al-Bsoul"
   location : "Glasgow, Scotland, UK"
-  avatar : "/assets/images/icon.ico"
   bio    : "Hi! Adam is a Glasgow - based designer at the intersection of design and development currently in his final year of Computer Games Design BSc at Glasgow Caledonian University."
   links:
     - label: "Behance"
