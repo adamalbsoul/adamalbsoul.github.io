@@ -1,28 +1,42 @@
 ---
-title: "AreaScouts mobile design"
-excerpt: "A mobile design for a client's sports scouting platform."
+title: "Latinify Chrome extension"
+excerpt: "A Chrome extension that converts cyrillic to latin on any website."
 tags:
   - design
 header:
-  image: /assets/images/asSplash.png
-  teaser: /assets/images/asSplash.png
+  image: https://raw.githubusercontent.com/oreoadidas/latinify/master/images/latinifyGithub.png
+  teaser: https://raw.githubusercontent.com/oreoadidas/latinify/master/images/latinifyGithub.png
 sidebar:
   - title: "Role"
-    image: https://lh3.googleusercontent.com/1Z2iYIfJ-E0AbP_DAOXqdxTZeMZZ7lesjKzyqRzv5knzkJL6vigdsf2VHf5CAzcNINd4Z3UBOw=w128-h128-e365
+    image: /assets/images/latinlogo.png
     image_alt: "logo"
     text: "Designer and developer"
   - title: "Responsibilities"
     text: "Coding"
 gallery:
-  - url: /assets/images/as1.png
-    image_path: /assets/images/as1.png
-    alt: "app"
-  - url: /assets/images/asSplash.png
-    image_path: /assets/images/asSplash.png
-    alt: "app 2"
+  - url: /assets/images/latin1.jpg
+    image_path: /assets/images/latin1.jpg
+    alt: "Chrome extension"
 ---
-A mobile design for a client's sports scouting platform for professional athletes.
+Converts Cyrillic to Latin on any website!
+Chrome Extension that converts any Cyrillic letters to Latin ones. Supports every Cyrillic alphabet!
+
+Works when you load any page that contains Cyrillic alphabet, by automiatically converting it to Latin.
+
+Cyrillic alphabets supported:
+Belarus
+Bulgaria
+Kazakstan
+Kyrgyzstan
+Macedonia
+Mongolia
+Montenegro
+Russia
+Serbia
+Tajikistan
+Ukraine
 
 {% include gallery caption="Screenshots" %}
 
-<a href="https://www.behance.net/gallery/88245827/Area-Scouts/" class="btn btn--primary">Project link</a>
+<a href="https://chrome.google.com/webstore/detail/latinify/clhcmoeloccdehioknhbbdokpkceaoha/overview/" class="btn btn--primary">Chrome store link</a>
+<a href="https://github.com/oreoadidas/latinify">Project link</a>
