@@ -29,5 +29,5 @@ UI concepts for 'Monumental', a casual location-based Augmented Reality (AR) mob
 
 {% include gallery caption="Screenshots" %}
 
-<a href="https://www.behance.net/gallery/88245827/Area-Scouts/" class="btn btn--primary">Project link</a>
-<a href="https://www.behance.net/gallery/88245827/Area-Scouts/" class="btn btn--secondary">Trailer link</a>
+<a href="https://www.behance.net/gallery/102013193/Monumental-location-based-AR-mobile-game-UI-concepts/" class="btn btn--primary">Project link</a>
+<a href="https://twitter.com/EwanMcECoding/status/1254760269282267138?s=09/" class="btn btn--secondary">Trailer link</a>
