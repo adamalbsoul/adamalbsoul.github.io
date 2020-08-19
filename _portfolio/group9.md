@@ -2,8 +2,8 @@
 title: "2D Web game made in team environment"
 excerpt: "A positive, feel-good shoot ‘em up based on 80’s arcade games such as Space Invaders, Defender and Galaga inspired by Scotland."
 header:
-  image: /assets/images/img6.png
-  teaser: /assets/images/img6.png
+  image: /assets/images/group91.png
+  teaser: /assets/images/group91.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
