@@ -13,7 +13,7 @@ sidebar:
     image_alt: "logo"
     text: "Designer"
   - title: "Responsibilities"
-    text: "Making UI elements, programming, and making the website."
+    text: "Designing UI elements, programming, and making the website."
 gallery:
   - url: /assets/images/drawing1.PNG
     image_path: /assets/images/drawing1.png
@@ -24,3 +24,4 @@ A web-based drawing app featuring changeable brush colour, changeable brush size
 {% include gallery caption="Screenshots" %}
 
 <a href="https://github.com/oreoadidas/Drawing-Application-With-Save-Feature" class="btn btn--primary">Project Link</a>
+<a href="https://oreoadidas.github.io/Unity-Paint-WebGL/" class="btn btn--secondary">Play in browser</a>
