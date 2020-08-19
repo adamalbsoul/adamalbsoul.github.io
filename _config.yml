@@ -40,8 +40,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-
-
+    order:
+      - group9.md
+      
 include:
   - _pages
 
