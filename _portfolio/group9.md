@@ -1,6 +1,9 @@
 ---
 title: "2D Web game made in team environment"
 excerpt: "A positive, feel-good shoot ‘em up based on 80’s arcade games such as Space Invaders, Defender and Galaga inspired by Scotland."
+tags:
+  - Unity
+  - design
 header:
   image: /assets/images/group91.png
   teaser: /assets/images/group91.png
