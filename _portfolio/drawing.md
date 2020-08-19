@@ -15,7 +15,7 @@ sidebar:
   - title: "Responsibilities"
     text: "Making UI elements, programming, and making the website."
 gallery:
-  - url: /assets/images/drawing1.png
+  - url: /assets/images/drawing1.PNG
     image_path: /assets/images/drawing1.png
     alt: "screenshot 1"
 ---
