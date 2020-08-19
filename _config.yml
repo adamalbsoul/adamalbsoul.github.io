@@ -41,8 +41,13 @@ collections:
     output: true
     permalink: /:collection/:path/
     order:
+      - monumental.md
+      - areascouts.md
+      - latinify.md
+      - desserts.md
+      - drawing.md
+      - webvr.md
       - group9.md
-      
 include:
   - _pages
 
