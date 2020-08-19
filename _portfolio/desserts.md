@@ -12,7 +12,7 @@ sidebar:
     image_alt: "logo"
     text: "Designer"
   - title: "Responsibilities"
-    text: "Making UI elements, programming, and making the website."
+    text: "Designing the mobile and web concepts"
 gallery:
   - url: /assets/images/dessertApp.png
     image_path: /assets/images/dessertApp.png
