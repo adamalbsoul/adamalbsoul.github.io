@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/dessertApp.png
 sidebar:
   - title: "Role"
-    image: /assets/images/dLogo.png
+    image: /assets/images/dLogo.PNG
     image_alt: "logo"
     text: "Designer"
   - title: "Responsibilities"
