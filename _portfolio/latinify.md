@@ -8,11 +8,11 @@ header:
   teaser: /assets/images/asSplash.png
 sidebar:
   - title: "Role"
-    image: /assets/images/asLogo.png
+    image: https://lh3.googleusercontent.com/1Z2iYIfJ-E0AbP_DAOXqdxTZeMZZ7lesjKzyqRzv5knzkJL6vigdsf2VHf5CAzcNINd4Z3UBOw=w128-h128-e365
     image_alt: "logo"
     text: "Designer and developer"
   - title: "Responsibilities"
-    text: "Making models, coding and web development."
+    text: "Coding"
 gallery:
   - url: /assets/images/as1.png
     image_path: /assets/images/as1.png
