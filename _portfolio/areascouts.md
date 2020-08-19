@@ -10,9 +10,9 @@ sidebar:
   - title: "Role"
     image: /assets/images/asLogo.png
     image_alt: "logo"
-    text: "Designer and developer"
+    text: "Designer"
   - title: "Responsibilities"
-    text: "Making models, coding and web development."
+    text: "Making a mobile version of the platform."
 gallery:
   - url: /assets/images/as1.png
     image_path: /assets/images/as1.png
