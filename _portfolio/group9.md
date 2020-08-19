@@ -2,8 +2,8 @@
 title: "2D Web game made in team environment"
 excerpt: "A positive, feel-good shoot ‘em up based on 80’s arcade games such as Space Invaders, Defender and Galaga inspired by Scotland."
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/images/img6.png
+  teaser: /assets/images/img6.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
@@ -12,15 +12,15 @@ sidebar:
   - title: "Responsibilities"
     text: "Making UI elements in the game's style and social media"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/img6.png
+    image_path: assets/images/img6.png
+    alt: "screenshot 1"
+  - url: /assets/images/group91.png
+    image_path: assets/images/group91.png
+    alt: "screenshot 2"
+  - url: /assets/images/group92.png
+    image_path: assets/images/group92.png
+    alt: "screenshot 3"
 ---
 
 Sidescroller made for GCU along with 6 teammates. Features original artwork, sounds, a promotional website, and is playable in a web browser. 
