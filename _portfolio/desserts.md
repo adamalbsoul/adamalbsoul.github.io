@@ -17,10 +17,9 @@ gallery:
   - url: /assets/images/dessertApp.png
     image_path: /assets/images/dessertApp.png
     alt: "app"
-   - url: /assets/images/dessertSite.png
+  - url: /assets/images/dessertSite.png
     image_path: /assets/images/dessertSite.png
-    alt: "website"
-
+    alt: "site"
 ---
 A modern design for a dessert delivery app.
 
