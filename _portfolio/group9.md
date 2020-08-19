@@ -13,7 +13,7 @@ sidebar:
     image_alt: "logo"
     text: "Designer"
   - title: "Responsibilities"
-    text: "Making UI elements in the game's style and social media"
+    text: "Designing UI elements and social media"
 gallery:
   - url: /assets/images/group91.png
     image_path: /assets/images/group91.png
@@ -31,3 +31,4 @@ Sidescroller made for GCU along with 6 teammates. Features original artwork, sou
 {% include gallery caption="Screenshots" %}
 
 <a href="https://oreoadidas.github.io/Group9-ProjectWebsite/" class="btn btn--primary">Project Link</a>
+<a href="https://oreoadidas.github.io/Group9-ProjectWebsite/waves/waves.html/" class="btn btn--secondary">Play in browser</a>
