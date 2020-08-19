@@ -30,4 +30,4 @@ UI concepts for 'Monumental', a casual location-based Augmented Reality (AR) mob
 {% include gallery caption="Screenshots" %}
 
 <a href="https://www.behance.net/gallery/88245827/Area-Scouts/" class="btn btn--primary">Project link</a>
-<a href="https://www.behance.net/gallery/88245827/Area-Scouts/" class="btn btn--primary">Trailer link</a>
+<a href="https://www.behance.net/gallery/88245827/Area-Scouts/" class="btn btn--secondary">Trailer link</a>
