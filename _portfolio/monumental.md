@@ -25,7 +25,7 @@ gallery:
     alt: "gallery ui"
     
 ---
-A mobile design for a client's sports scouting platform for professional athletes.
+UI concepts for 'Monumental', a casual location-based Augmented Reality (AR) mobile game about exploring statues and other such cultural monuments of Glasgow. Various styles, typefaces and colour schemes were used.
 
 {% include gallery caption="Screenshots" %}
 
