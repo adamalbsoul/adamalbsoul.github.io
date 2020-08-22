@@ -4,18 +4,18 @@ excerpt: "A VR tour web-app for a historical Roman ruins site."
 tags:
   - design
 header:
-  image: /assets/images/img7.jpg
-  teaser: /assets/images/img7.jpg
+  image: /assets/images/img7.webp
+  teaser: /assets/images/img7.webp
 sidebar:
   - title: "Role"
-    image: /assets/images/webVR1.png
+    image: /assets/images/webVR1.webp
     image_alt: "logo"
     text: "Designer and developer"
   - title: "Responsibilities"
     text: "Making models, coding and web development."
 gallery:
-  - url: /assets/images/webVR1.png
-    image_path: /assets/images/webVR1.png
+  - url: /assets/images/webVR1.webp
+    image_path: /assets/images/webVR1.webp
     alt: "app"
 
 ---
