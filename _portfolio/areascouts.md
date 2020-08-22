@@ -6,11 +6,9 @@ tags:
 header:
   image: /assets/images/asSplash.webp
   teaser: /assets/images/asSplash.webp
-webp
 sidebar:
   - title: "Role"
     image: /assets/images/asLogo.webp
-webp
     image_alt: "logo"
     text: "Designer"
   - title: "Responsibilities"
@@ -18,7 +16,6 @@ webp
 gallery:
   - url: /assets/images/as1.webp
     image_path: /assets/images/as1.webp
-webp
     alt: "app"
   - url: /assets/images/asSplash.webp
     image_path: /assets/images/asSplash.webp
