@@ -4,21 +4,21 @@ excerpt: "A concept for a delivery app for delicious desserts, including a landi
 tags:
   - design
 header:
-  image: /assets/images/dessertApp.png
-  teaser: /assets/images/dessertApp.png
+  image: /assets/images/dessertApp.webp
+  teaser: /assets/images/dessertApp.webp
 sidebar:
   - title: "Role"
-    image: /assets/images/dLogo.PNG
+    image: /assets/images/dLogo.webp
     image_alt: "logo"
     text: "Designer"
   - title: "Responsibilities"
     text: "Designing the mobile and web concepts"
 gallery:
-  - url: /assets/images/dessertApp.png
-    image_path: /assets/images/dessertApp.png
+  - url: /assets/images/dessertApp.webp
+    image_path: /assets/images/dessertApp.webp
     alt: "app"
-  - url: /assets/images/dessertSite.png
-    image_path: /assets/images/dessertSite.png
+  - url: /assets/images/dessertSite.webp
+    image_path: /assets/images/dessertSite.webp
     alt: "site"
 ---
 A modern design for a dessert delivery app.
