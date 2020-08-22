@@ -23,5 +23,5 @@ WebVR tour of a historical Roman site of Umm Qais made with A-Frame JS. Compatib
 
 {% include gallery caption="Screenshots" %}
 
-<a href="https://oreoadidas.github.io/Roman-Ruins-in-A-Frame-Web-VR/" class="btn btn--primary">Play in browser</a>
-<a href="https://github.com/oreoadidas/Roman-Ruins-in-A-Frame-Web-VR/" class="btn btn--secondary">Project link</a>
+<a href="https://adamalbsoul.github.io/Roman-Ruins-in-A-Frame-Web-VR/" class="btn btn--primary">Play in browser</a>
+<a href="https://github.com/adamalbsoul/Roman-Ruins-in-A-Frame-Web-VR/" class="btn btn--secondary">Project link</a>
