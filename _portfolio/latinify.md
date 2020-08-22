@@ -4,8 +4,8 @@ excerpt: "A Chrome extension that converts cyrillic to latin on any website."
 tags:
   - design
 header:
-  image: https://raw.githubusercontent.com/oreoadidas/latinify/master/images/latinifyGithub.png
-  teaser: https://raw.githubusercontent.com/oreoadidas/latinify/master/images/latinifyGithub.png
+  image: /assets/images/latinifyGithub.webp
+  teaser: /assets/images/latinifyGithub.webp
 sidebar:
   - title: "Role"
     image: /assets/images/latinlogo.webp
