@@ -8,14 +8,14 @@ header:
   teaser: https://raw.githubusercontent.com/oreoadidas/latinify/master/images/latinifyGithub.png
 sidebar:
   - title: "Role"
-    image: /assets/images/latinlogo.png
+    image: /assets/images/latinlogo.webp
     image_alt: "logo"
     text: "Designer and developer"
   - title: "Responsibilities"
     text: "Coding"
 gallery:
-  - url: /assets/images/latin1.jpg
-    image_path: /assets/images/latin1.jpg
+  - url: /assets/images/latin1.webp
+    image_path: /assets/images/latin1.webp
     alt: "Chrome extension"
 ---
 Converts Cyrillic to Latin on any website!
