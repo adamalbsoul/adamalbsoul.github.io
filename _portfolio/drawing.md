@@ -24,4 +24,4 @@ A web-based drawing app featuring changeable brush colour, changeable brush size
 {% include gallery caption="Screenshots" %}
 
 <a href="https://github.com/oreoadidas/Drawing-Application-With-Save-Feature" class="btn btn--primary">Project Link</a>
-<a href="https://oreoadidas.github.io/Unity-Paint-WebGL/" class="btn btn--secondary">Play in browser</a>
+<a href="https://adamalbsoul.github.io/Unity-Paint-WebGL/" class="btn btn--secondary">Play in browser</a>
