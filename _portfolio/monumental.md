@@ -4,11 +4,11 @@ excerpt: "Mobile design concepts for an AR game."
 tags:
   - design
 header:
-  image: /assets/images/headermonumental.png
-  teaser: /assets/images/headermonumental.png
+  image: /assets/images/headermonumental.webp
+  teaser: /assets/images/headermonumental.webp
 sidebar:
   - title: "Role"
-    image: /assets/images/logomonumental.png
+    image: /assets/images/logomonumental.webp
     image_alt: "logo"
     text: "Designer"
   - title: "Responsibilities"
