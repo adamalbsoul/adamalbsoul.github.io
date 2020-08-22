@@ -18,7 +18,7 @@ email: albsouladam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Adam is a Glasgow - based designer at the intersection of design and development currently in his final year of Computer Games Design BSc at Glasgow Caledonian University.
 twitter_username:
-github_username: oreoadidas
+github_username: adamalbsoul
 minimal_mistakes_skin: dark
 search: false
 archive_subtitle: false
@@ -81,7 +81,7 @@ author:
       url: "https://www.behance.net/adamalbsoul"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/oreoadidas"
+      url: "https://github.com/adamalbsoul"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/adam-al-bsoul-a85ba6174/"
@@ -96,7 +96,7 @@ footer:
       url: "https://www.behance.net/adamalbsoul"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/oreoadidas"
+      url: "https://github.com/adamalbsoul"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/adam-al-bsoul-a85ba6174/"
@@ -109,7 +109,7 @@ social:
   name:  # If the user or organization name differs from the site's name
   links:
     - "https://www.behance.net/adamalbsoul"
-    - "https://github.com/oreoadidas"
+    - "https://github.com/adamalbsoul"
     - "https://www.linkedin.com/in/adam-al-bsoul-a85ba6174/"
     
 defaults:
