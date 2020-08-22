@@ -31,4 +31,4 @@ Sidescroller made for GCU along with 6 teammates. Features original artwork, sou
 {% include gallery caption="Screenshots" %}
 
 <a href="https://adamalbsoul.github.io/Group9-ProjectWebsite/" class="btn btn--primary">Project Link</a>
-<a href="https://adamalbsoul.github.io/Group9-ProjectWebsite/waves/waves.html/" class="btn btn--secondary">Play in browser</a>
+<a href="https://adamalbsoul.github.io/Group9-ProjectWebsite/waves/waves.html" class="btn btn--secondary">Play in browser</a>
