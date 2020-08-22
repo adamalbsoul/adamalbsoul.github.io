@@ -3,22 +3,25 @@ title: "AreaScouts mobile design"
 excerpt: "A mobile design for a client's sports scouting platform."
 tags:
   - design
-header:
-  image: /assets/images/asSplash.png
-  teaser: /assets/images/asSplash.png
+header:webp
+  image: /assets/images/asSplash.webp
+  teaser: /assets/images/asSplash.webp
+webp
 sidebar:
   - title: "Role"
-    image: /assets/images/asLogo.png
+    image: /assets/images/asLogo.webp
+webp
     image_alt: "logo"
     text: "Designer"
   - title: "Responsibilities"
     text: "Making a mobile version of the platform."
 gallery:
-  - url: /assets/images/as1.png
-    image_path: /assets/images/as1.png
+  - url: /assets/images/as1.webp
+    image_path: /assets/images/as1.webp
+webp
     alt: "app"
-  - url: /assets/images/asSplash.png
-    image_path: /assets/images/asSplash.png
+  - url: /assets/images/asSplash.webp
+    image_path: /assets/images/asSplash.webp
     alt: "app 2"
 ---
 A mobile design for a client's sports scouting platform for professional athletes.
