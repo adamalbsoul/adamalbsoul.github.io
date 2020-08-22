@@ -5,24 +5,24 @@ tags:
   - Unity
   - design
 header:
-  image: /assets/images/group91.png
-  teaser: /assets/images/group91.png
+  image: /assets/images/group91.webp
+  teaser: /assets/images/group91.webp
 sidebar:
   - title: "Role"
-    image: /assets/images/group92.png
+    image: /assets/images/group92.webp
     image_alt: "logo"
     text: "Designer"
   - title: "Responsibilities"
     text: "Designing UI elements and social media"
 gallery:
-  - url: /assets/images/group91.png
-    image_path: /assets/images/group91.png
+  - url: /assets/images/group91.webp
+    image_path: /assets/images/group91.webp
     alt: "screenshot 1"
-  - url: /assets/images/img6.png
-    image_path: /assets/images/img6.png
+  - url: /assets/images/img6.webp
+    image_path: /assets/images/img6.webp
     alt: "screenshot 2"
-  - url: /assets/images/group92.png
-    image_path: assets/images/group92.png
+  - url: /assets/images/group92.webp
+    image_path: assets/images/group92.webp
     alt: "screenshot 3"
 ---
 
