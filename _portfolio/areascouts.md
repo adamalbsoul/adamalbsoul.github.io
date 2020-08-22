@@ -3,7 +3,7 @@ title: "AreaScouts mobile design"
 excerpt: "A mobile design for a client's sports scouting platform."
 tags:
   - design
-header:webp
+header:
   image: /assets/images/asSplash.webp
   teaser: /assets/images/asSplash.webp
 webp
@@ -24,6 +24,7 @@ webp
     image_path: /assets/images/asSplash.webp
     alt: "app 2"
 ---
+
 A mobile design for a client's sports scouting platform for professional athletes.
 
 {% include gallery caption="Screenshots" %}
