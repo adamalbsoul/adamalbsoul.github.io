@@ -70,6 +70,8 @@ plugins:
   - jekyll-gist
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
+
 
 author:
   name   : "Adam Al-Bsoul"
