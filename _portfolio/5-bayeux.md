@@ -12,7 +12,7 @@ sidebar:
     image_alt: "logo"
     text: "Designer"
   - title: "Responsibilities"
-    text: "Card and rulebook design along with playtesting."
+    text: "Card and rulebook design along with playtesting and balancing."
 gallery:
   - url: /assets/images/rulebook.webp
     image_path: /assets/images/rulebook.webp
