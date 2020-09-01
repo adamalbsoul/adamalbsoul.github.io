@@ -37,4 +37,4 @@ The level had to be constructed with the assets that were provided with the cour
 
 {% include gallery caption="Design process screenshots" %}
 
-<a href="https://docs.google.com/document/d/1PSPPxThE0UFpnOsbc4UxOGPkiIqkcP2W9XrgIX_crSc/edit?usp=sharing/" class="btn btn--primary">Download design process document</a>
+<a href="https://docs.google.com/document/d/1PSPPxThE0UFpnOsbc4UxOGPkiIqkcP2W9XrgIX_crSc/edit?usp=sharing/" class="btn btn--primary">Read design process document</a>
