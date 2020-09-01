@@ -1,6 +1,6 @@
 ---
 title: "FPS murder-mystery level design"
-excerpt: "Design ."
+excerpt: "Design and development process for FPS murder-mystery level."
 tags:
   - design
 header:
@@ -35,6 +35,6 @@ The end-user should be familiar with FPS genre games. The user is supposed to ha
 ### Design constraints
 The level had to be constructed with the assets that were provided with the coursework. Many of these could not be used for the 90’s San Francisco aesthetic. The time that the level had to be completed was achieved by manipulating the level size as well as placing evidence markers which would make the player stop and discover pieces of information in form of text which would prolong the time played.
 
-{% include gallery caption="Screenshots" %}
+{% include gallery caption="Design process screenshots" %}
 
 <a href="https://docs.google.com/document/d/1PSPPxThE0UFpnOsbc4UxOGPkiIqkcP2W9XrgIX_crSc/export?format=pdf/" class="btn btn--primary">Download design process document</a>
