@@ -4,8 +4,8 @@ excerpt: "A trading card game based on the Norman conquest depicted in the Bayeu
 tags:
   - design
 header:
-  image: /assets/images/rulebook.webp
-  teaser: /assets/images/rulebook.webp
+  image: /assets/images/cards.webp
+  teaser: /assets/images/cards.webp
 sidebar:
   - title: "Role"
     image: /assets/images/rulebook.webp
@@ -27,6 +27,6 @@ gallery:
 
 Battles of Bayeux Trading Card Game is a collectible card game inspired by the Bayeux tapestry depicting the Norman invasion, where two players duel each other until either one of the players’ HP (health points) reaches 0 or one of the players runs out of cards.
 
-{% include gallery caption="Screenshots" %}
+{% include gallery caption="Bayeux tapestry inspired designs" %}
 
 <a href="https://drive.google.com/file/d/1AfZXgldrf9Ww1wE_X3a1bXhRge_lGrdt/view?usp=sharing/" class="btn btn--primary">Read rulebook</a>
