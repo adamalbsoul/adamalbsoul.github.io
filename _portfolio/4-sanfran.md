@@ -1,11 +1,11 @@
 ---
-title: "Monumental"
-excerpt: "Mobile design concepts for an AR game."
+title: "FPS murder-mystery level design"
+excerpt: "Design ."
 tags:
   - design
 header:
-  image: /assets/images/Bath.webp
-  teaser: /assets/images/Bath.webp
+  image: /assets/images/bathroom.webp
+  teaser: /assets/images/bathroom.webp
 sidebar:
   - title: "Role"
     image: /assets/images/ue4drawing.webp
@@ -14,7 +14,7 @@ sidebar:
   - title: "Responsibilities"
     text: "Level, UI, game design, and modelling along with documentation"
 gallery:
-  - url: /assets/images/Bath.webp
+  - url: /assets/images/bathroom.webp
     image_path: /assets/images/blue.webp
     alt: "in-engine view of bathroom part of the level"
   - url:  /assets/images/blue.webp
