@@ -39,3 +39,4 @@ This, of course, would take a long time to develop and design from scratch but t
 
 <a href="https://www.behance.net/gallery/102013193/Monumental-location-based-AR-mobile-game-UI-concepts/" class="btn btn--primary">Project link</a>
 <a href="https://twitter.com/EwanMcECoding/status/1254760269282267138?s=09/" class="btn btn--secondary">Trailer link</a>
+<a href="https://docs.google.com/document/d/1VpPKaeOZHgexdfiO8Rpy5Bm44EuCTqzYbXVDx3TpTHU/edit?usp=sharing" class="btn btn--secondary">Preproduction game design doc</a>
