@@ -1,6 +1,6 @@
 ---
 title: "Monumental"
-excerpt: "Mobile design concepts for an AR game."
+excerpt: "Mobile design concepts for a mobile Augmented Reality game."
 tags:
   - design
 header:
