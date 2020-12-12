@@ -1,6 +1,6 @@
 ---
 title: "Latinify Chrome extension"
-excerpt: "A Chrome extension that converts cyrillic to latin on any website."
+excerpt: "A Chrome extension that converts Cyrillic script to Latin script on any website."
 tags:
   - design
 header:
