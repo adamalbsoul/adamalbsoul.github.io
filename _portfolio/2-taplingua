@@ -1,0 +1,37 @@
+---
+title: "Taplingua"
+excerpt: "Designs for a gamified language learning Android/iOS app during my internship."
+tags:
+  - design
+header:
+  image: /assets/images/herotaplingua.webp
+  teaser: /assets/images/herotaplingua.webp
+sidebar:
+  - title: "Role"
+    image: /assets/images/taplingualogo.webp
+    image_alt: "logo"
+    text: "Designer"
+  - title: "Responsibilities"
+    text: "UI and UX design"
+gallery:
+  - url: /assets/images/taplinguaread.webp
+    image_path: /assets/images/taplinguaread.webp
+    alt: "Reading design of the app"
+  - url: /assets/images/taplinguabuy.webp
+    image_path: /assets/images/taplinguabuy.webp
+    alt: "Monetisation design"
+  - url: /assets/images/taplingualeaderboard.webp
+    image_path: /assets/images/taplingualeaderboard.webp
+    alt: "Leaderboard design"
+    
+---
+Optimised user flow for onboarding, lessons, leaderboards.
+
+Improvements in the Android and iOS interface with Material design.
+
+Helped with gamification aspects.
+
+{% include gallery caption="Some of the designs for the mobile app" %}
+
+<a href="https://play.google.com/store/apps/details?id=com.taplingua.languages&hl=it" class="btn btn--primary">Android Play Store</a>
+<a href="https://www.linkedin.com/company/taplingua-sl" class="btn btn--secondary">LinkedIn</a>
