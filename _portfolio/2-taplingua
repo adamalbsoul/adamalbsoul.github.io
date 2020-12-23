@@ -25,11 +25,13 @@ gallery:
     alt: "Leaderboard design"
     
 ---
-Optimised user flow for onboarding, lessons, leaderboards.
+Here is a rundown of some of my tasks during my internship at Taplingua:
 
-Improvements in the Android and iOS interface with Material design.
+-Work on the Android and iOS user interface using Material design.
 
-Helped with gamification aspects.
+-Optimised user flow for onboarding, lessons, leaderboards, etc.
+
+-Work on gamification, monetisation, and user retention.
 
 {% include gallery caption="Some of the designs for the mobile app" %}
 
