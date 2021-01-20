@@ -1,0 +1,34 @@
+---
+title: "Polar Migration"
+excerpt: "A game that bridges fun and online activism."
+tags:
+  - design
+header:
+  image: assets/images/title.webp
+  teaser: assets/images/title.webp
+sidebar:
+  - title: "Role"
+    image:
+    image_alt: "logo"
+    text: "Designer and editor"
+  - title: "Responsibilities"
+    text: "UI, Video editing, Game design"
+gallery:
+  - url: assets/images/polarmenu.webp
+    image_path: assets/images/polarmenu.webp
+    alt: "Polar menu"
+  - url: assets/images/levelpolar.webp
+    image_path: assets/images/levelpolar.webp
+    alt: "Polar level"
+    
+---
+Meet Polly the polar bear, the main character of Polar Migration. The player controls Polly to move north to reach safe habitats.
+
+Polly is on a race against time as the ice cap platforms will be sinking upon landing and moving while the player traverses to the endpoint. There are also obstacles such as human-made litter that slow Polly down. Polar bear food like seals gives Polly a temporary movement boost.
+
+After a run the player will participate in online activism for the hashtag #polarmigration to reach virality for it and its goals to be noticed.
+
+{% include gallery caption="Screenshots" %}
+
+<a href="https://www.youtube.com/watch?v=d1-qaaGA0a4" class="btn btn--primary">Trailer link</a>
+<a href="https://drive.google.com/file/d/1OkWTnkuRKbeyznfGbV8UoYS4fD75zso6/view?usp=sharing" class="btn btn--secondary">Infographic link</a>
