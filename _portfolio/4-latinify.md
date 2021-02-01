@@ -1,11 +1,11 @@
 ---
 title: "Latinify Chrome extension"
-excerpt: "A Chrome extension that converts Cyrillic script to Latin script on any website."
+excerpt: "A Chrome extension made with JavaScript that converts Cyrillic script to Latin script."
 tags:
   - design
 header:
-  image: /assets/images/latinifyGithub.webp
-  teaser: /assets/images/latinifyGithub.webp
+  image: /assets/images/latin1.webp
+  teaser: /assets/images/latin1.webp
 sidebar:
   - title: "Role"
     image: /assets/images/latinlogo.webp
@@ -19,11 +19,11 @@ gallery:
     alt: "Chrome extension"
 ---
 Converts Cyrillic to Latin on any website!
-Chrome Extension that converts any Cyrillic letters to Latin ones. Supports every Cyrillic alphabet!
+Chrome Extension made with JavaScript that converts any Cyrillic letters to Latin ones. Supports every Cyrillic alphabet!
 
 Works when you load any page that contains Cyrillic alphabet, by automiatically converting it to Latin.
 
-Cyrillic alphabets supported:
+Cyrillic alphabets from these regions are supported:
 Belarus
 Bulgaria
 Kazakstan
