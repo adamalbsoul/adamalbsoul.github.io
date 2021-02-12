@@ -22,7 +22,11 @@ gallery:
     alt: "app 2"
 ---
 
-A mobile design for a client's sports scouting platform for professional athletes.
+A mobile design for a client's sports scouting platform for professional athletes. It is designed in accordance with AreaScouts branding to form a consistent whole with other AreaScouts products.
+
+Area Scouts ™ is a one-of-a-kind nation-wide platform, with an emphasis on overall athlete health and development.
+
+Area Scouts provides athletes with a state of the art assessment, an athlete development program/score, and professional evaluations. Through our innovative B.A.S.E. Assessment™, and Professional grade scouting reports, athletes will be given specific tools to enhance their skill set and achieve success.
 
 {% include gallery caption="Screenshots" %}
 
