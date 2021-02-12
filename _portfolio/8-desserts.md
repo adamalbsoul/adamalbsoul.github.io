@@ -1,11 +1,11 @@
 ---
-title: "Desserts delivery app concept"
-excerpt: "A concept for a delivery app for delicious desserts, including a landing page."
+title: "Desserts delivery branding website/app"
+excerpt: "A branding concept for a delivery app for delicious desserts, including an app and website."
 tags:
   - design
 header:
-  image: /assets/images/dessertApp.webp
-  teaser: /assets/images/dessertApp.webp
+  image: /assets/images/dessertSite.webp
+  teaser: /assets/images/dessertSite.webp
 sidebar:
   - title: "Role"
     image: /assets/images/dLogo.webp
@@ -14,14 +14,14 @@ sidebar:
   - title: "Responsibilities"
     text: "Designing the mobile and web concepts"
 gallery:
-  - url: /assets/images/dessertApp.webp
-    image_path: /assets/images/dessertApp.webp
-    alt: "app"
   - url: /assets/images/dessertSite.webp
     image_path: /assets/images/dessertSite.webp
+    alt: "app"
+  - url: /assets/images/dessertApp.webp
+    image_path: /assets/images/dessertApp.webp
     alt: "site"
 ---
-A modern design for a dessert delivery app.
+Modern branding for a dessert delivery app. The branding is consistent in elements such as typography, colour, iconography, etc. across the website and application.
 
 {% include gallery caption="Screenshots" %}
 
