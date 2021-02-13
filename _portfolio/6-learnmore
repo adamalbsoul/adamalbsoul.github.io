@@ -12,13 +12,13 @@ sidebar:
     image_alt: "logo"
     text: "Designer"
   - title: "Responsibilities"
-    text: "Designing the mobile and web concepts"
+    text: "Designing for the web"
 gallery:
   - url: https://mir-s3-cdn-cf.behance.net/project_modules/fs/b5dee178883863.5cb1e3999a393.gif
     image_path: https://mir-s3-cdn-cf.behance.net/project_modules/fs/b5dee178883863.5cb1e3999a393.gif
     alt: "landing page"
 ---
-Modern branding for a dessert delivery app. The branding is consistent in elements such as typography, colour, iconography, etc. across the website and application.
+Modern branding for a distance learning website. The branding is consistent in elements such as typography, colour, iconography, etc.
 
 {% include gallery caption="Screenshots" %}
 
