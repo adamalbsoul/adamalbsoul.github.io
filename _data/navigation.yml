@@ -1,5 +1,5 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Download CV"
-    url: https://docs.google.com/document/d/1pTcAVY6wouhhi856KTluiIpOKLBCUeQQp7ROWEcfylg/export?format=pdf
+  - title: "View CV"
+    url: https://drive.google.com/file/d/1E_ArWW8rHccCeT6FQkTtLh4OIpptt0nV/view?usp=sharing
