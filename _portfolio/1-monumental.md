@@ -1,6 +1,6 @@
 ---
 title: "Monumental"
-excerpt: "Mobile design concepts for a mobile Augmented Reality game."
+excerpt: "Monumental turns a mural walk into a fun and informative and immersive experience."
 tags:
   - design
 header:
@@ -25,7 +25,7 @@ gallery:
     alt: "gallery ui"
     
 ---
-UI concepts for 'Monumental', a casual location-based Augmented Reality (AR) mobile game about exploring statues and other such cultural monuments of Glasgow. Various styles, typefaces and colour schemes were used.
+'Monumental' is a casual location-based Augmented Reality (AR) mobile game about exploring statues and other such cultural monuments of Glasgow.
 
 The project was a mobile app that incentivises users to explore cultural heritage of Glasgow by walking which I worked on with a team in an agile approach to deliver the product in time.
 
