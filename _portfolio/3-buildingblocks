@@ -25,6 +25,8 @@ gallery:
     alt: "Character alignment chart"
     
 ---
+Building Blocks of Life is a narrative-heavy visual novel/puzzle game about the changes that occur in the lives of 4 characters.
+
 Visual Novel was decided as the genre for the video game as this genre helps focus on the story by aiding a text-based story with illustrations. Unity was the game engine used to make this game and a plugin called Fungus was used to aid in making the Visual Novel aspect of the game.<br/>
 
 ### Interactivity
