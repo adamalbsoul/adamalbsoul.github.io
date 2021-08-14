@@ -60,7 +60,7 @@ Research and playtesting sessions that focused on UI made it obvious that player
 
 Upon beating a mini-game interaction at a monument's location it ends up in the gallery - a sort of inventory where the mini-game can be re experienced from anywhere.
 
-##Reflection
+## Reflection
 
 The pre-production stage of the game up until the final version was completed and it satisfied all the needs of the brief. The final product contained a total of 7 mini-games after 25 weeks of development. This included programming the mechanics, fully rendered art assets and a fleshed out gameplay experience with feedback from playtesting. The game is suitable for a casual user which includes youths under adult supervision and is ideal to use for a tour of Glasgow. In conclusion, I am satisfied with the product as it was also done at the height of the COVID-19 pandemic which required us to quickly transition to working on it from home.
 
