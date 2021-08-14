@@ -21,6 +21,8 @@ gallery:
 ---
 A web-based drawing app featuring changeable brush colour, changeable brush size, saving as a PNG image.
 
+The C# code uses the trail renderer for brush strokes.
+
 {% include gallery caption="Screenshots" %}
 
 <a href="https://github.com/oreoadidas/Drawing-Application-With-Save-Feature" class="btn btn--primary">Project Link</a>
