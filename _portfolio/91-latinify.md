@@ -23,19 +23,6 @@ Chrome Extension made with JavaScript that converts any Cyrillic letters to Lati
 
 Works when you load any page that contains Cyrillic alphabet, by automiatically converting it to Latin.
 
-Cyrillic alphabets from these regions are supported:
-Belarus
-Bulgaria
-Kazakstan
-Kyrgyzstan
-Macedonia
-Mongolia
-Montenegro
-Russia
-Serbia
-Tajikistan
-Ukraine
-
 {% include gallery caption="Screenshots" %}
 
 <a href="https://chrome.google.com/webstore/detail/latinify/clhcmoeloccdehioknhbbdokpkceaoha/overview/" class="btn btn--primary">Chrome store link</a>
