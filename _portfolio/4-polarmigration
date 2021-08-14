@@ -22,13 +22,11 @@ gallery:
     alt: "Polar level"
     
 ---
-Made for a design brief set by Rare & Xbox Game Studios - "Create a game that’s a force for good".
+Polar Migration is a campaign for spreading awareness about the loss of polar bears’ habitat due to global warming that included a game concept, trailer video, and promotional website. The brief was set by Rare & Xbox Game Studios - 'Create a game that is a force for good’.
 
-Meet Polly the polar bear, the main character of Polar Migration. The player controls Polly to move north to reach safe habitats.
+The decision was that the player controls Polly the polar bear to move north to reach safe habitats. After a run the player will participate in online activism for the hashtag #polarmigration to reach virality for it and its goals to be noticed.
 
-Polly is on a race against time as the ice cap platforms will be sinking upon landing and moving while the player traverses to the endpoint. There are also obstacles such as human-made litter that slow Polly down. Polar bear food like seals gives Polly a temporary movement boost.
-
-After a run the player will participate in online activism for the hashtag #polarmigration to reach virality for it and its goals to be noticed.
+Creating the game was at the core of the campaign. It was decided that the game concept will include an animation of what the game should look like, a ‘vertical slice’. The engine used was Unity for its ease of use, especially for animations using the timeline feature. Mixamo was used for creating the animations.
 
 {% include gallery caption="Screenshots" %}
 
