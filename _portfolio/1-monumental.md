@@ -64,7 +64,7 @@ Upon beating a mini-game interaction at a monument's location it ends up in the 
 
 The pre-production stage of the game up until the final version was completed and it satisfied all the needs of the brief. The final product contained a total of 7 mini-games after 25 weeks of development. This included programming the mechanics, fully rendered art assets and a fleshed out gameplay experience with feedback from playtesting. The game is suitable for a casual user which includes youths under adult supervision and is ideal to use for a tour of Glasgow. In conclusion, I am satisfied with the product as it was also done at the height of the COVID-19 pandemic which required us to quickly transition to working on it from home.
 
-{% include gallery caption="Screenshots" %}
+{% include gallery caption="Process" %}
 
 <a href="https://www.behance.net/gallery/102013193/Monumental-location-based-AR-mobile-game-UI-concepts/" class="btn btn--primary">Project link</a>
 <a href="https://twitter.com/EwanMcECoding/status/1254760269282267138?s=09/" class="btn btn--secondary">Trailer link</a>
