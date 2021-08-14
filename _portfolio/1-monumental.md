@@ -14,15 +14,15 @@ sidebar:
   - title: "Responsibilities"
     text: "UI Concepts and mockups"
 gallery:
-  - url: https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/d82a31102013193.5f396731467cb.png
-    image_path: https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/d82a31102013193.5f396731467cb.png
-    alt: "logo"
-  - url: https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/3be723102013193.5f39673146083.png
-    image_path: https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/3be723102013193.5f39673146083.png
-    alt: "ui buttons"
-  - url: https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/ab97d4102013193.5f39673147955.png
-    image_path: https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/ab97d4102013193.5f39673147955.png
-    alt: "gallery ui"
+  - url: https://res-3.cloudinary.com/hfkrwbnod/image/upload/q_auto/v1/ghost-blog-images/Ideation.jpg
+    image_path: https://res-3.cloudinary.com/hfkrwbnod/image/upload/q_auto/v1/ghost-blog-images/Ideation.jpg
+    alt: "Initial Ideation"
+  - url: https://res-1.cloudinary.com/hfkrwbnod/image/upload/q_auto/v1/ghost-blog-images/Board.jpg
+    image_path: https://res-1.cloudinary.com/hfkrwbnod/image/upload/q_auto/v1/ghost-blog-images/Board.jpg
+    alt: "brainstorming"
+  - url: https://res-2.cloudinary.com/hfkrwbnod/image/upload/q_auto/v1/ghost-blog-images/ezgif.com-gif-maker--4-.gif
+    image_path: https://res-2.cloudinary.com/hfkrwbnod/image/upload/q_auto/v1/ghost-blog-images/ezgif.com-gif-maker--4-.gif
+    alt: "user flow"
     
 ---
 'Monumental' is a casual location-based Augmented Reality (AR) mobile game about exploring statues and other such cultural monuments of Glasgow.
