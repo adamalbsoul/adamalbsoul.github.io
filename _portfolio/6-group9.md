@@ -25,8 +25,9 @@ gallery:
     image_path: assets/images/group92.webp
     alt: "screenshot 3"
 ---
+A positive, feel-good shoot ‘em up based on 80’s arcade games such as Space Invaders, Defender and Galaga.
 
-Sidescroller made for GCU along with 6 teammates. Features original artwork, sounds, a promotional website, and is playable in a web browser. 
+Made for Glasgow Caledonian University along with 6 teammates. Features original artwork, sounds, a promotional website, and is playable in a web browser. 
 
 {% include gallery caption="Screenshots" %}
 
