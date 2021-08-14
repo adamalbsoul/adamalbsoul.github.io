@@ -1,5 +1,5 @@
 ---
-title: "Print - Bayeux Tapestry trading card game"
+title: "Bayeux Tapestry trading card game"
 excerpt: "A trading card game based on the Norman conquest depicted in the Bayeux Tapestry"
 tags:
   - design
